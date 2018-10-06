@@ -68,7 +68,7 @@ Mobile App Dev - App Brainstorming
 2. PetCare
 3. Unified Population
 
-## New App Ideas - List
+## New App Ideas - Evaluate & Categorize
 1. On-Campus Route Maker
    - **Description** Allows students to route their classes based on their schedule, reducing the need to constantly check where each individual class is.
    - **Category:** Maps & Navigation
