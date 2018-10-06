@@ -61,8 +61,7 @@ Mobile App Dev - App Brainstorming
 4. Pet Care
     - User will open the app and click on the kind of issue his/her pet is having (injury, sickness, etc.). The app would then contact any veterinarians nearby about the pet, and one would respond and drive over to the location to treat the pet.
 5. Unified Population
-   -    Takes population of surrounding cities of major cities and adds it together.
-   -    
+   -    Takes population of surrounding cities of major cities and adds it together.   
 
 ## Top 3 New App Ideas
 1. On-Campus Route Maker
