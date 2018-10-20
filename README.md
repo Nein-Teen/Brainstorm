@@ -14,8 +14,7 @@ Allows students to route their classes based on their schedule, reducing the nee
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
+1. User can enter the building and room number into a search bar and a path will be shown to it starting from their current location.
 
 ---
 
@@ -23,6 +22,3 @@ Allows students to route their classes based on their schedule, reducing the nee
 // TODO: Add Wireframe Images
 
 ---
-
-### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
