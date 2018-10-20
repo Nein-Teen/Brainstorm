@@ -1,7 +1,7 @@
 ## Campus - Maps
 
 ### App Description
-// TODO: Add App Description
+Allows students to route their classes based on their schedule, reducing the need to constantly check where each individual class is.
 
 ### App Idea Evaluation
 // TODO: Evaluate app across the following categories using the App Evaluation Protocol.
